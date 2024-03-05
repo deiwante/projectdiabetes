@@ -1,0 +1,5 @@
+.env
+venvenviroment
+requirements*.in
+.ipynb_checkpoints
+.DS_store
