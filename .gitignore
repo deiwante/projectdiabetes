@@ -1,5 +1,6 @@
 .env
-venvenviroment
+venvenviroment/
 requirements*.in
-.ipynb_checkpoints
+.ipynb_checkpoints/
+Notebooks/.ipynb_checkpoints/
 .DS_store
