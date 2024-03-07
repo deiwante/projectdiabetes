@@ -10,21 +10,35 @@ An in-depth paragraph about your project and overview of use.
 
 Getting Started
 Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
+jupyter
+ipykernel
+pandas
+seaborn
+dash
+plotly
 
-command to run if program contains helper info
+Main focus point
+To find relation between Diabetes Melitus (DM) and hospitalization rates.
+Possible ways to prevent quarter checkup's being held in a hospital.
+Features
+Commonly used data=cleaning tecniques : 
+  Remove irrelevant data.
+  Deduplicate your data, which in this case was not applicable. 
+  Fix structural errors.
+  Deal with missing data.
+  Filter out data outliers.
+  Validate your data.
+  Visualise it using EDA.
+Visuals
+Graphs presenting : 
+  Different genders affected by readmittions.
+  Different age groups affected by readmittions.
+  Most common hospitalisation statistics.
+
+
 Authors
-Contributors names and contact info
+<p></a> <a href="https://www.linkedin.com//in/deimante-piraityte/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+Deimante Piraityte
 
 ex. Dominique Pizzie
 ex. @DomPizzie
