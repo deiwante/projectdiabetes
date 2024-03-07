@@ -8,19 +8,21 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Description:
 
 
-An in-depth paragraph about your project and overview of use.
+Hospitalization and readmission rates for patients with Diabetes Mellitus (DM) are increasing, posing significant financial and mental burdens. Traditional treatment guidelines recommend that patients with diabetes undergo regular HbA1C testing and check-ups every three months. Unfortunately, many patients find it increasingly challenging and inconvenient to adhere to these recommendations due to limited accessibility to healthcare services. This difficulty leads to missed appointments and exacerbates the problem of preventable hospitalizations.
+Analysis of data spanning from 1999 to 2008 reveals that 46% of patients admitted to hospitals for diabetes-related issues experience readmissions. This trend prompts further investigation into the rates of preventable hospitalizations from 2005 to 2021, which consistently show that nearly 30% of all cases are diabetes-related.
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Getting Started:
 
 
-Dependencies
-jupyter
-ipykernel
-pandas
-seaborn
-dash
-plotly
+Dependencies:
+
+- jupyter
+- ipykernel
+- pandas
+- seaborn
+- dash
+- plotly
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Main focus point:
@@ -32,30 +34,34 @@ Possible ways to prevent quarter checkup's being held in a hospital.
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Features
 
+Commonly used data=cleaning tecniques : 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Commonly used data=cleaning tecniques : 
-
-  Remove irrelevant data.
-  Deduplicate your data, which in this case was not applicable. 
-  Fix structural errors.
-  Deal with missing data.
-  Filter out data outliers.
-  Validate your data.
-  Visualise it using EDA.
+  - Remove irrelevant data.
+  - Deduplicate your data, which in this case was not applicable. 
+  - Fix structural errors.
+  - Deal with missing data.
+  - Filter out data outliers.
+  - Validate your data.
+  - Visualise it using EDA.
 
   
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Visuals
+
 Graphs presenting : 
-  Different genders affected by readmittions.
-  Different age groups affected by readmittions.
-  Most common hospitalisation statistics.
+
+  - Different genders affected by readmittions.
+  - Different age groups affected by readmittions.
+  - Most common hospitalisation statistics.
 
   
   
 
 Authors
+
 <p></a> <a href="https://www.linkedin.com//in/deimante-piraityte/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 Deimante Piraityte
+
+
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Original Source:
